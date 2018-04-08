@@ -1,0 +1,1 @@
+export const GET_GEO_CODE_SUCCESS = 'GET_GEO_CODE_SUCCESS'
